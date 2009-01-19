@@ -1,0 +1,68 @@
+
+body {
+    width: 1400px;
+    font-family: Verdana;
+    background-color: #EEE;
+}
+
+a {
+    color: black;
+    font-size: 12px;
+    text-decoration: none;
+    border: 1px solid gray;
+    padding: 2px;
+    background: #DDF;
+    -moz-border-radius-bottomleft:  10px;
+    -moz-border-radius-bottomright: 10px;
+    -moz-border-radius-topleft:     10px;
+    -moz-border-radius-topright:    10px;
+}
+
+.group-title {
+    font-weight: bold;
+    font-size: 12pt;
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+}
+
+.group {
+    border: 1px solid #CCC;
+    width: 274px;
+    height: 600px;
+    margin-top: 10px;
+    margin-right: 4px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    float: left;
+}
+
+.status {
+    padding: 3px;
+    margin-bottom: 10px;
+    margin-right: 1px;
+    border: 1px solid gray;
+    font-size: 10px;
+}
+
+.avatar {
+    border: 1px solid #CCC;
+    margin-right: 5px;
+    float: left;
+}
+
+.text {
+    border: 0px;
+    margin-left: 55px;
+}
+
+.username {
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+.footer {
+    clear: both;
+}
