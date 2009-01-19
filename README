@@ -1,0 +1,24 @@
+
+*******************************
+*   Twitter groups in XSLT    *
+*******************************
+
+Just some XSL files to create a view on twitter with the tweets
+grouped according to the user they came from. The configuration file
+is in XML and should be in xml/groups.xml. It's format should be along
+the lines of:
+
+<groups>
+  <group name="groupname">
+    <user>username</user>
+  </group>
+</groups>
+
+That is, one group entry per group and one user entry per user in
+group. It expects an xml/current.xml file which follows the format
+that twitter uses in its API.
+
+For more information, please see the original blog post:
+http://pedromartinspt.com/blog/2009/01/playing-around-with-xsltplaying-around-with-xslt/
+
+Pedro Martins 2009
