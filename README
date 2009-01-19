@@ -19,6 +19,6 @@ group. It expects an xml/current.xml file which follows the format
 that twitter uses in its API.
 
 For more information, please see the original blog post:
-http://pedromartinspt.com/blog/2009/01/playing-around-with-xsltplaying-around-with-xslt/
+http://pedromartinspt.com/blog/2009/01/playing-around-with-xslt
 
 Pedro Martins 2009
