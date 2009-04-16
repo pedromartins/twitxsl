@@ -5,7 +5,7 @@
 
 Just some XSL files to create a view on twitter with the tweets
 grouped according to the user they came from. The configuration file
-is in XML and should be in xml/groups.xml. It's format should be along
+is in XML and should be in xml/groups.xml. Its format should be along
 the lines of:
 
 <groups>
