@@ -53,6 +53,11 @@ h2 {
     float: left;
 }
 
+img.avatar {
+	width: 48px;
+	height: 48px;
+}
+
 .text {
     border: 0px;
     margin-left: 55px;
